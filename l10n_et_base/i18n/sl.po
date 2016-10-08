@@ -1,0 +1,142 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * l10n_et_base
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: l10n-ethiopia (8.0)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-26 15:23+0000\n"
+"PO-Revision-Date: 2016-09-16 21:45+0000\n"
+"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
+"Language-Team: Slovenian (http://www.transifex.com/oca/OCA-l10n-ethiopia-8-0/language/sl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#. module: l10n_et_base
+#: field:res.partner,et_city:0
+msgid "Amharic City"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.partner,et_subcity:0
+msgid "Amharic Subcity (Woreda)"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "Amharic Subcity/City"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.bank:l10n_et_base.view_res_bank_form
+#: view:res.partner.bank:l10n_et_base.view_partner_bank_form
+msgid "BIC/Swift Code"
+msgstr ""
+
+#. module: l10n_et_base
+#: model:ir.model,name:l10n_et_base.model_res_company
+msgid "Companies"
+msgstr ""
+
+#. module: l10n_et_base
+#: model:ir.model,name:l10n_et_base.model_res_country_state
+msgid "Country state"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "Ethiopian Address"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.country.state,et_code:0
+msgid "Ethiopic Code"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.company,ethiopic_name:0 field:res.country.state,ethiopic_name:0
+#: field:res.partner,ethiopic_name:0
+msgid "Ethiopic name"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.partner,houseno:0
+msgid "House No"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "House No."
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form field:res.partner,kebele:0
+msgid "Kebele"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "Kebele/House No"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.partner,pobox:0
+msgid "P.O. Box"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "PO Box"
+msgstr ""
+
+#. module: l10n_et_base
+#: model:ir.model,name:l10n_et_base.model_res_partner
+msgid "Partner"
+msgstr "Partner"
+
+#. module: l10n_et_base
+#: view:res.company:l10n_et_base.view_company_form
+msgid "Registration No."
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.partner,subcity:0
+msgid "Subcity (Woreda)"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.company:l10n_et_base.view_company_form
+msgid "TIN"
+msgstr ""
+
+#. module: l10n_et_base
+#: help:res.company,vat_number:0
+msgid "Tax Identificatio Number"
+msgstr ""
+
+#. module: l10n_et_base
+#: field:res.company,vat_number:0
+msgid "Vat number"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.company:l10n_et_base.view_company_form
+#: view:res.partner:l10n_et_base.view_partner_form
+#: view:res.partner:l10n_et_base.view_partner_form_simple
+msgid "ስም በአማርኛ"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "ክ/ክተማ"
+msgstr ""
+
+#. module: l10n_et_base
+#: view:res.partner:l10n_et_base.view_partner_form
+msgid "ክተማ"
+msgstr ""

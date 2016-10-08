@@ -7,20 +7,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l10n-ethiopia (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-19 02:39+0000\n"
+"POT-Creation-Date: 2016-08-26 15:23+0000\n"
 "PO-Revision-Date: 2016-04-18 21:22+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
-"Language-Team: English (http://www.transifex.com/oca/OCA-l10n-ethiopia-8-0/language/en/)\n"
+"Last-Translator: <>\n"
+"Language-Team: Slovenian (http://www.transifex.com/oca/OCA-l10n-ethiopia-8-0/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: en\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
 #. module: l10n_et_base_vat
 #: model:ir.model,name:l10n_et_base_vat.model_res_company
 msgid "Companies"
-msgstr "Companies"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: model:ir.model,name:l10n_et_base_vat.model_res_partner
@@ -30,49 +30,49 @@ msgstr "Partner"
 #. module: l10n_et_base_vat
 #: view:res.partner:l10n_et_base_vat.view_partner_form
 msgid "Taxpayer ID Number (TIN)"
-msgstr "Taxpayer ID Number (TIN)"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: code:addons/l10n_et_base_vat/res.py:124 constraint:res.partner:0
 #, python-format
 msgid "Taxpayer ID Number (TIN) in use by another partner!"
-msgstr "Taxpayer ID Number (TIN) in use by another partner!"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: code:addons/l10n_et_base_vat/res.py:122 constraint:res.partner:0
 #, python-format
 msgid "Taxpayer ID Number (TIN) is invalid"
-msgstr "Taxpayer ID Number (TIN) is invalid"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: view:res.company:l10n_et_base_vat.company_form_vat
 #: view:res.partner:l10n_et_base_vat.view_partner_form_base_vat
 msgid "True"
-msgstr "True"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: field:res.partner,vat_number:0
 msgid "VAT"
-msgstr "VAT"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: view:res.partner:l10n_et_base_vat.view_partner_form_base_vat
 msgid "VAT Registered"
-msgstr "VAT Registered"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: help:res.partner,vat_number:0
 msgid "VAT Registration Number"
-msgstr "VAT Registration Number"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: code:addons/l10n_et_base_vat/res.py:119 constraint:res.partner:0
 #, python-format
 msgid "VAT registration number in use by another partner!"
-msgstr "VAT registration number in use by another partner!"
+msgstr ""
 
 #. module: l10n_et_base_vat
 #: code:addons/l10n_et_base_vat/res.py:117 constraint:res.partner:0
 #, python-format
 msgid "VAT registration number is invalid"
-msgstr "VAT registration number is invalid"
+msgstr ""

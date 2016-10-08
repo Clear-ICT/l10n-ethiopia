@@ -21,7 +21,7 @@
 
 {
     'name': 'Ethiopia - States and Provinces',
-    'version': '1.0',
+    'version': '8.0.1.0.0',
     'category': 'Localization',
     'license': 'AGPL-3',
     'author': 'Clear ICT Solutions, Odoo Community Association (OCA)',
